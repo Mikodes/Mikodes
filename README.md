@@ -3,6 +3,25 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&width=500&lines=Chief+Technology+Officer;Tech+Strategy+%26+Vision;Full-Stack+Architect;AI+%26+Security+Leader;Digital+Transformation+Expert;Team+Builder+%26+Mentor)](https://git.io/typing-svg)
 
+<div align="center">
+
+[![Matrix SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=18&duration=3000&pause=500&color=00FF41&background=000000&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=120&lines=%3E%20SYSTEM%3A%20MIKODES_MATRIX.exe;%3E%20STATUS%3A%20CHIEF_TECHNOLOGY_OFFICER;%3E%20ACCESS%3A%20UNLIMITED_PRIVILEGES;%3E%20MODE%3A%20DIGITAL_ARCHITECT_ACTIVATED)](https://git.io/typing-svg)
+
+</div>
+
+<div align="center">
+
+![Matrix](https://media.giphy.com/media/3o7qDSOvfaCO9b3MlO/giphy.gif)
+
+**`> CHOOSE YOUR REALITY:`**
+
+🔴 **RED PILL** → `See how deep the rabbit hole goes`  
+🔵 **BLUE PILL** → `Return to conventional programming`
+
+</div>
+
+
+
 ---
 
 ## 🎯 **CTO Leadership & Vision**
