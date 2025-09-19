@@ -195,10 +195,8 @@ const mikelTechStack = {
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/Website-www.mikodes.com-blue?style=for-the-badge&logo=google-chrome)](http://www.mikodes.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mikelohidalgo-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mikelohidalgo/)
-[![Twitter](https://img.shields.io/badge/Twitter-@mikodes-blue?style=for-the-badge&logo=twitter)](https://twitter.com/mikodes)
-[![Email](https://img.shields.io/badge/Email-contact@mikodes.com-red?style=for-the-badge&logo=gmail)](mailto:miguel.lopez.hi@gmail.com)
+[![Email](https://img.shields.io/badge/Email-contact@mike-red?style=for-the-badge&logo=gmail)](mailto:miguel.lopez.hi@gmail.com)
 
 </div>
 
@@ -210,6 +208,6 @@ const mikelTechStack = {
 
 *Currently crafting the next generation of intelligent systems* 🚀
 
-![Visitor Count](https://komarev.com/ghpvc/?username=miguel.lopez.hi@gmail.coms&color=brightgreen&style=for-the-badge)
+![Visitor Count](https://komarev.com/ghpvc/?username=Mike&color=brightgreen&style=for-the-badge)
 
 </div>
